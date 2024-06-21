@@ -7,3 +7,6 @@
 [submodule "client/module/prefix_repo1"]
 	path = client/module/prefix_repo1
 	url = https://github.com/elmirasarrafi/prefix_repo1.git
+[submodule "client/module/prefix_repo2"]
+	path = client/module/prefix_repo2
+	url = https://github.com/elmirasarrafi/prefix_repo2.git
