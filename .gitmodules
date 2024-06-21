@@ -1,3 +1,6 @@
 [submodule "client/module/repo1"]
 	path = client/module/repo1
 	url = https://github.com/elmirasarrafi/repo1.git
+[submodule "client/module/repo2"]
+	path = client/module/repo2
+	url = https://github.com/elmirasarrafi/repo2.git
