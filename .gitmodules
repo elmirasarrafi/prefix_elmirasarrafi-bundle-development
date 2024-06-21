@@ -1,0 +1,3 @@
+[submodule "client/module/repo1"]
+	path = client/module/repo1
+	url = https://github.com/elmirasarrafi/repo1.git
